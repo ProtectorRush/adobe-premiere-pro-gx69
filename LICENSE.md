@@ -1,4 +1,4 @@
-
+Enhance Adobe Premiere Pro for macOS with vip Adobe Premiere Pro for macOS Script | chromatic-aberration-fix + batch-rendering, the #1 script. Includes chromatic-aberration-fix
 
 
 
